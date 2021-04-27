@@ -29,7 +29,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço mas que muita ge
 
 <ul class="ck ck-todolist">
  <li> EmulatorGames </li>
- <p> Baixa e emula, carregando direto do site, roms dos consoles 2D e 3D. </p>
+ <p> Baixa e emula, carregando direto do site, roms de varios consoles 2D e 3D. </p>
  <p> https://www.emulatorgames.net/ </p>
 </ul>
 
