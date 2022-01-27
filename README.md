@@ -36,6 +36,14 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço mas que muita ge
 <h2></h2>
 
 <ul class="ck ck-todolist">
+ <li> Uno With Friends </li>
+ <p> Jogue Uno com seus amigos de qualquer lugar do mundo, sem instalação, sem cadastro, de qualquer plataforma. </p>
+ <p> https://buddyboardgames.com/uno </p>
+</ul>
+
+<h2></h2>
+
+<ul class="ck ck-todolist">
  <li> Pixlr </li>
  <p> Editor de imagem. </p>
  <p> https://www.pixlr.com </p>
