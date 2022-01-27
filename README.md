@@ -21,7 +21,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço mas que muita ge
 
 <ul class="ck ck-todolist">
  <li> Vírus Total </li>
- <p> Antivírus de URL's e arquivos composto de tools disponibilizadas por varias empresas. </p>
+ <p> Antivírus de URL's e arquivos, ele é composto de tools disponibilizadas por varias empresas. </p>
  <p> https://www.virustotal.com/gui/ </p>
 </ul>
 
