@@ -53,6 +53,30 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço mas que muita ge
 
 <ul class="ck ck-todolist">
  <li> Udemy </li>
- <p> Plataforma de Cursos (muita gente conhece mas não sabe que tem cursos gratuitos,  certificados). </p>
+ <p> Plataforma de Cursos (muita gente conhece mas não sabe que oferecem cursos gratuitos e certificados). </p>
  <p> https://www.pixlr.com </p>
+</ul>
+
+<h2></h2>
+
+<ul class="ck ck-todolist">
+ <li> Metal Tracker </li>
+ <p> Disponibiliza muita informação, notícias, opções de conversar, comentar e baixar álbuns e discografias de grande parte das bandas de Metal do mundo. </p>
+ <p> https://en.metal-tracker.com </p>
+</ul>
+
+<h2></h2>
+
+<ul class="ck ck-todolist">
+ <li> MyAbandonWare </li>
+ <p> Disponibiliza gratuitamente para download um catalogo grande de jogos que perderam os direitos autorais, com muita informação sobre cada jogo. </p>
+ <p> https://www.myabandonware.com </p>
+</ul>
+
+<h2></h2>
+
+<ul class="ck ck-todolist">
+ <li> Itch </li>
+ <p> Disponibiliza um catalogo gigante de jogos indies, muitos premiados, e o melhor é que a maior parte deles são gratuitos. </p>
+ <p> https://itch.io </p>
 </ul>
