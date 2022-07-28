@@ -13,7 +13,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço mas que muita ge
 
 <ul class="ck ck-todolist">
  <li> RemoteOK </li>
- <p> Trabalhos remotos: marketing, software dev, suporte, design, musicos, ... recebendo em dolar, libra, euro,...</p>
+ <p> Trabalhos remotos: marketing, software dev, suporte, design, produção musical, ... recebendo em dolar, libra, euro,...</p>
  <p> https://remoteok.io/ </p>
 </ul>
 
