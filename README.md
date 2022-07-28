@@ -70,7 +70,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço, mas que infeliz
 
 <ul class="ck ck-todolist">
  <li> MyAbandonWare </li>
- <p> Disponibiliza gratuitamente para download um catalogo grande de jogos que perderam os direitos autorais, com muita informação sobre cada jogo. </p>
+ <p> Disponibiliza gratuitamente para download um catalogo grande de jogos AAA que perderam os direitos autorais, com muita informação sobre cada jogo. </p>
  <p> https://www.myabandonware.com </p>
 </ul>
 
