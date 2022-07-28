@@ -15,6 +15,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço, mas que infeliz
  <li> RemoteOK </li>
  <p> Trabalhos remotos: marketing, software dev, suporte, design, produção musical, ... recebendo em dolar, libra, euro,...</p>
  <p> https://remoteok.io/ </p>
+ <p> Alternativas: www.workana.com, www.getninjas.com.br, www.freelancer.com.br, www.99freelas.com.br, www.vintepila.com.br, ... </p>
 </ul>
 
 <h2></h2>
