@@ -38,7 +38,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço, mas que infeliz
 
 <ul class="ck ck-todolist">
  <li> Uno With Friends </li>
- <p> Jogue Uno com até 4 amigos de qualquer lugar do mundo, sem instalação, sem cadastro e de qualquer dispositivo que possa ter um navegador. </p>
+ <p> Jogue Uno com até 4 amigos de qualquer lugar do mundo, sem instalação, sem cadastro e de qualquer dispositivo com um navegador. </p>
  <p> https://buddyboardgames.com/uno </p>
 </ul>
 
