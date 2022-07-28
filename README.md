@@ -29,7 +29,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço, mas que infeliz
 
 <ul class="ck ck-todolist">
  <li> EmulatorGames </li>
- <p> Disponibiliza um catalogo considerável de jogos(roms) de consoles 2D e 3D, para baixar e até jogar direto do site. </p>
+ <p> Disponibiliza um catálogo considerável de jogos(roms) de consoles 2D e 3D, para baixar e até jogar direto do site. </p>
  <p> https://www.emulatorgames.net/ </p>
 </ul>
 
@@ -77,7 +77,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço, mas que infeliz
 
 <ul class="ck ck-todolist">
  <li> Itch </li>
- <p> Disponibiliza um catalogo gigante de jogos indies, muitos premiados, e a maioria é gratuito. </p>
+ <p> Disponibiliza um catálogo gigante de jogos indies, muitos premiados, e a maioria é gratuito. </p>
  <p> https://itch.io </p>
 </ul>
 
