@@ -1,5 +1,5 @@
 # UsefulWebTool
-Listei as Web ferramentas gratuitas mais úteis que eu conheço mas que muita gente não conhece.
+Listei as Web ferramentas gratuitas mais úteis que eu conheço, mas que infelizmente muita gente não conhece.
 
 <h1></h1>
 
@@ -77,6 +77,15 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço mas que muita ge
 
 <ul class="ck ck-todolist">
  <li> Itch </li>
- <p> Disponibiliza um catalogo gigante de jogos indies, muitos premiados, e o melhor é que a maior parte deles são gratuitos. </p>
+ <p> Disponibiliza um catalogo gigante de jogos indies, muitos premiados, e a maioria é gratuito. </p>
  <p> https://itch.io </p>
 </ul>
+
+<h2></h2>
+
+<ul class="ck ck-todolist">
+ <li> Convertio </li>
+ <p> Um conversor de arquivos muito rápido e com muitas opções de extensões e formatos de arquivos. </p>
+ <p> https://convertio.co/pt </p>
+</ul>
+
