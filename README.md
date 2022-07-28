@@ -86,7 +86,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço, mas que infeliz
 
 <ul class="ck ck-todolist">
  <li> Convertio </li>
- <p> Um conversor de arquivos muito rápido e com mais opções de extensões de arquivos, podendo converter até arquivos em nuvem. </p>
+ <p> Um conversor de arquivos muito rápido e o com mais opções de extensões de arquivos, podendo converter até arquivos em nuvem. </p>
  <p> https://convertio.co/pt </p>
 </ul>
 
