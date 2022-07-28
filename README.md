@@ -89,3 +89,11 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço, mas que infeliz
  <p> https://convertio.co/pt </p>
 </ul>
 
+
+<h2></h2>
+
+<ul class="ck ck-todolist">
+ <li> Mediafire </li>
+ <p> Um servidor de arquivos que tem a opção de upar gratuitamente até 10gb de arquivos, sem a necessidade de cadastro por até 3 dias ou com cadastro sem limite de tempo. Empresa localizada no Texas, Estados Unidos. </p>
+ <p> https://www.mediafire.com/ </p>
+</ul>
