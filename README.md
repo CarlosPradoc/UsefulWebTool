@@ -5,7 +5,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço mas que muita ge
 
 <ul class="ck ck-todolist">
  <li> Webtor </li>
- <p> Faz streaming de vídeos e baixa arquivos hospedados em torrent. </p>
+ <p> Faz streaming de vídeos e baixa arquivos compartilhados em torrent. </p>
  <p>  https://webtor.io/ </p>
 </ul>
 
@@ -13,7 +13,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço mas que muita ge
 
 <ul class="ck ck-todolist">
  <li> RemoteOK </li>
- <p> Trabalhos remotos: marketing, software dev, suporte, design, ... recebendo em dolar, libra, euro,...</p>
+ <p> Trabalhos remotos: marketing, software dev, suporte, design, musicos, ... recebendo em dolar, libra, euro,...</p>
  <p> https://remoteok.io/ </p>
 </ul>
 
@@ -21,7 +21,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço mas que muita ge
 
 <ul class="ck ck-todolist">
  <li> Vírus Total </li>
- <p> Antivírus de URL's e arquivos, ele é composto de tools disponibilizadas por varias empresas. </p>
+ <p> Antivírus de URL's e arquivos, feito de tools disponibilizadas por varias empresas de segurança digital. </p>
  <p> https://www.virustotal.com/gui/ </p>
 </ul>
 
@@ -29,7 +29,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço mas que muita ge
 
 <ul class="ck ck-todolist">
  <li> EmulatorGames </li>
- <p> Baixa e emula, carregando direto do site, roms de varios consoles 2D e 3D. </p>
+ <p> Disponibiliza um catalogo considerável de jogos(roms) de consoles 2D e 3D, para baixar e até jogar direto do site. </p>
  <p> https://www.emulatorgames.net/ </p>
 </ul>
 
@@ -37,7 +37,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço mas que muita ge
 
 <ul class="ck ck-todolist">
  <li> Uno With Friends </li>
- <p> Jogue Uno com até 4 amigos seus de qualquer lugar do mundo, sem instalação, sem cadastro, de qualquer plataforma. </p>
+ <p> Jogue Uno com até 4 amigos de qualquer lugar do mundo, sem instalação, sem cadastro e de qualquer dispositivo que possa ter um navegador. </p>
  <p> https://buddyboardgames.com/uno </p>
 </ul>
 
@@ -61,7 +61,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço mas que muita ge
 
 <ul class="ck ck-todolist">
  <li> Metal Tracker </li>
- <p> Disponibiliza muita informação, notícias, opções de conversar, comentar e baixar álbuns e discografias de grande parte das bandas de Metal do mundo. </p>
+ <p> Disponibiliza muita informação, notícia, opção de conversar, comentar e principalmente de baixar álbuns e discografias da maioria das Bandas de Metal. </p>
  <p> https://en.metal-tracker.com </p>
 </ul>
 
