@@ -101,6 +101,13 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço, mas que infeliz
 
 <ul class="ck ck-todolist">
  <li> I love PDF </li>
- <p> Essa ferramenta pode te salvar quando o assunto é PDF. Ele remove páginas, junta vários PDFs, divide, converte, comprimi, repara, entre muitas outras funções, e faz tudo isso em poucos instantes.</p>
+ <p> Essa ferramenta pode te salvar quando o assunto é PDF. Ela remove páginas, junta vários PDFs, divide, converte, comprimi, repara, entre muitas outras funções, e faz tudo isso em poucos instantes.</p>
  <p> https://www.ilovepdf.com/pt/juntar_pdf </p>
 </ul>
+
+<ul class="ck ck-todolist">
+ <li> Gartic </li>
+ <p> Gartic é um jogo de desenhar e advinhar desenhos, nele você pode criar sua sala privada e jogar com amigos de qualquer lugar do mundo ou jogar com pessoas aleatórias, podendo escolher o tema ou ir em salas com temas sortidos, isso sem precisar se cadastrar.</p>
+ <p> https://gartic.io/ </p>
+</ul>
+
