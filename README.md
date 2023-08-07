@@ -1,5 +1,5 @@
 # UsefulWebTool
-Listei as Web ferramentas gratuitas mais úteis que eu conheço, mas que infelizmente muita gente não conhece.
+Listei as Web ferramentas gratuitas mais úteis que eu conheço, mas que infelizmente muita gente não conhece ou não sabe de todo o seu potencial.
 
 <h1></h1>
 
@@ -78,7 +78,7 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço, mas que infeliz
 
 <ul class="ck ck-todolist">
  <li> Itch </li>
- <p> Disponibiliza um catálogo gigante de jogos indies, muitos premiados, e a maioria é gratuito. </p>
+ <p> Disponibiliza um catálogo gigante de jogos indies, muitos deles premiados, e a maioria pode ser baixado grauitamente pois estão disponíveis no modo "name your price". Ajude os devs se puder. </p>
  <p> https://itch.io </p>
 </ul>
 
@@ -95,6 +95,12 @@ Listei as Web ferramentas gratuitas mais úteis que eu conheço, mas que infeliz
 
 <ul class="ck ck-todolist">
  <li> Mediafire </li>
- <p> Um servidor de arquivos que tem a opção de upar gratuitamente até 10gb de arquivos, sem a necessidade de cadastro por até 3 dias ou com cadastro sem limite de tempo. Empresa localizada no Texas, Estados Unidos. </p>
+ <p> Um servidor de arquivos que tem a opção de upar gratuitamente até 10gb de arquivos, sem a necessidade de cadastro por até 3 dias ou com cadastro sem limite de tempo. </p>
  <p> https://www.mediafire.com/ </p>
+</ul>
+
+<ul class="ck ck-todolist">
+ <li> I love PDF </li>
+ <p> Essa ferramenta pode te salvar quando o assunto é PDF. Ele remove páginas, junta vários PDFs, divide, converte, comprimi, repara, entre muitas outras funções, e faz tudo isso em poucos instantes.</p>
+ <p> https://www.ilovepdf.com/pt/juntar_pdf </p>
 </ul>
